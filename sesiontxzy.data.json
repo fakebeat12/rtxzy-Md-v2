@@ -1,1 +1,63 @@
-ISI SESSION LU
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "wPGOVK+MVkNeKP6NvXCp9yCrmvn+gI+fQRxrVDrtRVU="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "2OwOiW9WZrjeXeTBNCZ5n/CjlktIb3fcfLdoEsQB9ms="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "IBLYk9V7BL6Xwy24y+/f6cC9UBcD6y01hTUWhDKOVkQ="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "qZiYGvxf6UuXzx7rdSsddRD0DpRCTq3uW52/pMi7Iks="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "mK2dSz6N+ieT62HQTbKJ3CZT8PWx6DJd3JiZrypyQUE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "CZOC/m90i2d3DTiyDQv3R34UNeH1Go6HW6RCGsks/ms="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "iGZFGrt/QGX4h9X3rEXDJfaKs55lVwGNqu1wxpWhjDuYs3z6uUBdWC113T7Faac6XiC0Vi/gehHryRQcXsyFAQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 45,
+    "advSecretKey": "6xBswxnXVyUwE2Gfl36ZBYqXAABVGf5lyWIIvf6zI80=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "6282150277960@s.whatsapp.net",
+          "fromMe": true,
+          "id": "0BF769DB046CD272A2F8F24B91D4E943"
+        },
+        "timestamp": 1666075627
+      },
+      {
+        "key": {
+          "remoteJid": "6282150277960@s.whatsapp.net",
+          "fromMe": true,
+          "id": "848E82E4BBB7696ED2928FAA0EB35122"
+        },
+        "timestamp": 1666075667
+      }
+    ],
+    "nextPreKeyId": 43,
+Files
+
+Session-Md-5 - Replit
